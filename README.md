@@ -2,7 +2,7 @@
 
 Full stack Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio]                                                
+- 🔭 Here's my portfolio (https://celadon-flan-f6df1e.netlify.app/)                                                
 - 🌱 I’m currently a final year student ( BTech Artificial Inteligence and Data Science )
 - Engineeing at "St joseph college of engineering"
 
